@@ -1,4 +1,4 @@
-<img alt="Icon" src="shoppingList/app/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true" align="left" hspace="1" vspace="1">
+<img alt="Icon" src="misc/app-icon.png" align="left" hspace="1" vspace="1">
 
 # TBD
 
